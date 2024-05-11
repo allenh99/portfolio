@@ -27,5 +27,28 @@
             "title": "Soft Skills",
             "description": "Problem-Solving, Communication, Organization"
         }
-    ]
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/placeholder-image.png",
+          "title": "Project 1",
+          "description": "placeholder",
+          "link": "View In Github"
+        },
+        {
+          "id": "2",
+          "src": "./img/placeholder-image-1.png",
+          "title": "Project 2",
+          "description": "placeholder",
+          "link": "View In Github"
+        },
+        {
+          "id": "3",
+          "src": "./img/placeholder-image-2.png",
+          "title": "Project 3",
+          "description": "placeholder",
+          "link": "View In Github"
+        }
+      ]
 }
