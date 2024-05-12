@@ -12,9 +12,7 @@ export default function AboutMe() {
               I'm Allen, a Student at the Univeristy of Virginia studying Computer Science
             </p>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
+              Placeholder Text
             </p>
           </div>
         </div>
